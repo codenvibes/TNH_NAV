@@ -1,6 +1,8 @@
 ## Page Purpose:
 This page is designed to provide seamless navigation assistance for staff and patients within Nairobi Hospital. Using a combination of QR codes and interactive maps, the page will help users locate specific buildings, floors, and offices within the hospital's premises.
 
+<br>
+
 ## Core Functionalities and Workflow:
 1. QR Code for Accessing the Map
 	○ Scan QR Code: Provide strategically placed QR codes throughout the hospital premises. Users scan the code using their smartphone to access the navigation page.
@@ -21,7 +23,9 @@ This page is designed to provide seamless navigation assistance for staff and pa
 6. Final Navigation to the Office:
 	○ After selecting the office, the map calculates and displays the shortest route from the user's current position to the office.
 	○ Provide dynamic updates in case the user takes a wrong turn or changes location.
-	
+
+<br>
+
  ## Additional Steps and Enhancements:
 1. Backend Infrastructure:
 	○ Develop a geospatial database with detailed mappings of the hospital's layout, including buildings, floors, pathways, and rooms.
